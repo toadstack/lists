@@ -1,0 +1,36 @@
+{
+    "Moderators": [
+        // Trust Levels:
+        // 1: Normal (Kick/Warn)
+        // 2: Advanced (Kick/Warn/Ban/UnBan)
+
+        // FlawlessAnnie
+        {
+            "UserId": 103596431,
+            "TrustLevel": 2
+        },
+
+        // cometabluey
+        {
+            "UserId": 83790353,
+            "TrustLevel": 2
+        },
+
+        // scyfes
+        {
+            "UserId": 348147077,
+            "TrustLevel": 2
+        },
+
+        // RBXO
+        {
+            "UserId": 34639352,
+            "TrustLevel": 2
+        }
+    ],
+
+    "Owners": [
+        // LovelyJacob
+        2614622891, 77771842
+    ]
+}
